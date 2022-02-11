@@ -6,7 +6,6 @@ public class Objective7Lab1 {
 
       System.out.println(counter);
 
-
       counter = counter - 1; //this makes we count down
     }
   }
